@@ -10,6 +10,8 @@ assign roles, and configure permissions, ensuring secure and organized access co
  :black_medium_small_square:User Management: View, edit, delete, and manage user details. <br/>
    :black_medium_small_square:Role Management: Assign and update roles for users. <br/>
     :black_medium_small_square:Permission Control: Configure role-based permissions to ensure secure access to system features. <br/>
+    to view the assigned permissions <br/>
+    goto-> permission  button in the admindashboard page <br/>
     :black_medium_small_square:Interactive UI: Easy-to-navigate interface for quick administration tasks. <br/>
 
 
@@ -61,6 +63,10 @@ npm run dev
 in browser:
 go for link: `` localhost:3000 ``
 
+
+### to view the assigned permissions 
+    goto-> permission  button in the admindashboard page <br/>
+    
 ### How to Use
 
 :black_medium_small_square:Login to admindashboard <br/>
